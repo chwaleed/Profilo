@@ -1,0 +1,18 @@
+:root {
+  --color-theme: white;
+  --color-bold: #2d2e32;
+  --color-font: #5a646a;
+  --color-primary: #f9f9f9;
+}
+@font-face {
+  font-family: UltraBold;
+  src: url(./Fonts/UltraBold.woff2);
+}
+@font-face {
+  font-family: SimpleText;
+  src: url(./Fonts/Simpleparagrah.woff2);
+}
+@font-face {
+  font-family: SimpleBold;
+  src: url(./Fonts/Bold.woff2);
+}
